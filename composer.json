@@ -2,7 +2,7 @@
     "name": "citywebconsultants/blm",
     "description": "Rightmove BLM Parser",
     "require": {
-        "illuminate/support": "4.*",
+        "illuminate/support": "8.*",
         "php": ">=5.4.0",
         "psr/log": "1.*",
         "league/flysystem": "0.5.*"
